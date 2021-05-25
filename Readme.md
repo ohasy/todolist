@@ -1,3 +1,4 @@
+todolist in react with solidity and web3
 Install ganache.
 npm i -g truffle
 configure truffle-config with ganache host and port
